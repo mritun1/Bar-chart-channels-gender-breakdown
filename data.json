@@ -1,0 +1,58 @@
+{
+  "Facebook Channel": [
+    {
+      "gender": "F",
+      "total": "2566"
+    },
+    {
+      "gender": "M",
+      "total": "3162"
+    },
+    {
+      "gender": "U",
+      "total": "249"
+    }
+  ],
+  "Instagram Channel": [
+    {
+      "gender": "F",
+      "total": "4347"
+    },
+    {
+      "gender": "M",
+      "total": "5936"
+    },
+    {
+      "gender": "U",
+      "total": "219"
+    }
+  ],
+  "Twitter page": [
+    {
+      "gender": "F",
+      "total": "2365"
+    },
+    {
+      "gender": "M",
+      "total": "2716"
+    },
+    {
+      "gender": "U",
+      "total": "12331"
+    }
+  ],
+  "Quora users": [
+    {
+      "gender": "F",
+      "total": "2026"
+    },
+    {
+      "gender": "M",
+      "total": "2398"
+    },
+    {
+      "gender": "U",
+      "total": "12473"
+    }
+  ]
+}
